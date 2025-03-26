@@ -1,5 +1,3 @@
--- Thanks for using this script! Check out other free scripts by me on CFX FiveM or my Tebex for paid scripts/support: https://angelicxs.tebex.io/
-
 Config = {}
 
 Config.UseESX = false						-- Use ESX Framework
